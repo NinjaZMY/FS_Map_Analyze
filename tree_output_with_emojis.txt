@@ -1,0 +1,17 @@
+📂 Empty folders (7 total):
+– 📁 root/
+– 📁 ├── src/
+– 📁 ├── lib/
+– 📁 utils/
+– 📁 ├── docs/
+– 📁 tests/
+– 📁 unit/
+
+📁 Folder-only tree:
+📁 root/ (empty)
+📁 ├── src/ (empty)
+📁 ├── lib/ (empty)
+📁 utils/ (empty)
+📁 ├── docs/ (empty)
+📁 tests/ (empty)
+📁 unit/ (empty)

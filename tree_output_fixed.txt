@@ -1,0 +1,36 @@
+
+--- Original Folder Map (Emoji Display) ---
+
+Folder map of c:\Users\dell\Downloads\Project
+==================================================
+
+├── 📂 .vscode/
+│   └── 📄 metago_bookmarks.json
+├── 📄 # ­ Active Malware or Exploits posing as.md
+├── 📄 %9.js
+├── 📄 0_today.txt
+├── 📂 my_empty_folder/
+├── 📂 another_folder/
+│   ├── 📂 sub_folder_with_file/
+│   │   └── 📄 file.txt
+│   ├── 📂 empty_sub_folder/
+│   └── 📂 sub_folder_with_another_empty/
+│       └── 📂 inner_empty/
+-------------------------------------------
+
+
+--- Analysis Results (Emoji Display) ---
+📂 Empty folders (3 total):
+– 📁 my_empty_folder/
+– 📁 another_folder/empty_sub_folder/
+– 📁 another_folder/sub_folder_with_another_empty/inner_empty/
+
+📁 Folder-only tree:
+📂 .vscode/
+📂 another_folder/
+│   ├── 📁 empty_sub_folder/ (empty)
+│   ├── 📂 sub_folder_with_another_empty/
+│   ├──     └── 📁 inner_empty/ (empty)
+    └── 📂 sub_folder_with_file/
+📁 my_empty_folder/ (empty)
+----------------------------------------

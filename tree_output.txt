@@ -1,0 +1,5 @@
+Empty folders (1 total):
+– .vscode/
+
+Folder-only tree:
+.vscode/ (empty)
