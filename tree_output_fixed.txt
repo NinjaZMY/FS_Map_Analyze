@@ -1,7 +1,7 @@
 
 --- Original Folder Map (Emoji Display) ---
 
-Folder map of c:\Users\dell\Downloads\Project
+Folder map of c:\\Users\\dell\\Downloads\\Project
 ==================================================
 
 ├── 📂 .vscode/
@@ -16,6 +16,74 @@ Folder map of c:\Users\dell\Downloads\Project
 │   ├── 📂 empty_sub_folder/
 │   └── 📂 sub_folder_with_another_empty/
 │       └── 📂 inner_empty/
+├── 📄 0_yesterday.ini
+├── 📄 1__السلام عليكم أخي الك.m4a
+├── 📄 2 final __ السلام عليكم أخي الكريم.ini
+├── 📄 2__السلام عليكم أخي الك.m4a
+├── 📄 3__السلام عليكم أخي الك.m4a
+├── 📄 4__السلام عليكم أخي الك.m4a
+├── 📄 5__السلام عليكم أخي الك.m4a
+├── 📄 6__السلام عليكم أخي الك.m4a
+├── 📄 7__السلام عليكم أخي الك.m4a
+├── 📄 all_list_main_today.txt
+├── 📄 anime.md
+├── 📄 blockleed name.txt
+├── 📄 blue&red unite.ini
+├── 📄 brain.txt
+├── 📄 calarifiy please.txt
+├── 📄 challenge 1 can't hurt me incomplete.md
+├── 📄 cipher meister.md
+├── 📄 clarification.md
+├── 📄 cwy me a liver.md
+├── 📄 desktop.ini
+├── 📄 dilemna.sty
+├── 📄 dlme.txt
+├── 📄 driver wlan.txt
+├── 📄 firebase-app.js
+├── 📄 gemini death.txt
+├── 📄 I Was Made for Lovin’ You Lyrics.rb
+├── 📄 keeping my words prooofread if necessary.md
+├── 📄 mario.txt
+├── 📄 my-ublock-backup_2025-05-15_16.24.38.txt
+├── 📄 NaN challenge1 last update.fs
+├── 📄 new tab current window - process ps windows terminal.ps1
+├── 📄 omega paradigm part1.md
+├── 📄 omega paradigm part2.ini
+├── 📄 phoneix!.rb
+├── 📄 planning example.sty
+├── 📄 post.ini
+├── 📄 post2.ini
+├── 📄 pre omega paradigm prompt.md
+├── 📄 prep test 2.cs
+├── 📄 prep test.txt
+├── 📄 prep tst.md
+├── 📄 prev.ini
+├── 📄 pride kingdom custom lyrics.ini
+├── 📄 prompt test for logic.txt
+├── 📄 query 16.md
+├── 📄 query big part 1.md
+├── 📄 query big part2.md
+├── 📄 query xy.md
+├── 📄 rose.txt
+├── 📄 salam akhi full.MP3
+├── 📄 SPOILER_West Village Hand Dilemna.md
+├── 📄 sssss.txt
+├── 📄 System file Groups!.rs
+├── 📄 tafrika.txt
+├── 📄 Text tester txtBut I must explain to you how all this m.sty
+├── 📄 That's creative writing!.fs
+├── 📄 today-tmrw-work.log
+├── 📄 tree_output.txt
+├── 📄 try.mk
+├── 📄 tst prep.md
+├── 📄 tst prep.txt
+├── 📄 tst. the rythm I c
+├── 📄 tst.html
+├── 📄 work.txt
+├── 📄 You’re My Best Friend Lyrics.rb
+├── 📄 yt-dlp.exe
+└── 📄 سَلامٌ عَلَيكُم لا وَفاءٌ وَلا عَهدُ.ini
+
 -------------------------------------------
 
 
